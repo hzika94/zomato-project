@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
 sns.set(style = 'whitegrid')
 import joblib 
 import streamlit as st
