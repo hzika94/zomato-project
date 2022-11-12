@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 # import joblib 
 import streamlit as st
-from geopy.geocoders import Nominatim
+# from geopy.geocoders import Nominatim
 import math
 from sklearn.preprocessing import LabelEncoder
 
