@@ -13,7 +13,7 @@ from sklearn.preprocessing import LabelEncoder
 
 model = joblib.load('model.h5')
 
-st.title("Salary Predictor")
+st.title("Restaurants Success Predictor")
 
 
 def DistanceFromCapital (city) :
