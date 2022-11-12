@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-sns.set(style = 'whitegrid')
 import joblib 
 import streamlit as st
 from geopy.geocoders import Nominatim
